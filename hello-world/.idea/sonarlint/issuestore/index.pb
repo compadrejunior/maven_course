@@ -1,6 +1,4 @@
 
-9
-	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
 4
 mvnw,5\d\5d837c4ed85ecaaf932c506e80ff5d7b9f3d590d
 8
@@ -9,3 +7,12 @@ H
 .mvn/wrapper/wrapper.iml,f\6\f6a4158f10b67fc852fdf18dea89e3468fad587c
 M
 src/main/java/HelloWorld.java,0\e\0ea593bf68cb2752d12ea9f4a9be88eed88a4424
+7
+pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
+Q
+!src/test/java/HelloWorldTest.java,8\1\81aee700b73f7cf036bd494e157927e4fc40f10e
+:
+
+.gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
+9
+	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
