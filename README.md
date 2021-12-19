@@ -1,7 +1,7 @@
 # maven_tutorials
-![GitHub all releases](https://img.shields.io/github/downloads/compadrejunior/maven_course/total?logo=github&style=for-the-badge)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/compadrejunior/maven_course?logo=GitHub&style=for-the-badge)
 
 This repo has a series of exercises and recipes for maven
 
