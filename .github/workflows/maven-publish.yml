@@ -11,6 +11,8 @@ jobs:
   hello-world:
 
     runs-on: ubuntu-latest
+    env:
+      working-directory: hello-world
     permissions:
       contents: read
       packages: write
